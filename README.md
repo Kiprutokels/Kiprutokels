@@ -15,7 +15,6 @@ Hey there! I'm Kelvin Kipruto, a passionate full-stack developer and AI enthusia
     👯 I'm looking to collaborate on Open source projects, AI research, and startup ventures
     🤔 I'm looking for help with Scaling AI models and optimizing full-stack architectures
     💬 Ask me about React, Next.js, Django, AI integration, and building scalable applications
-    📫 How to reach me: kelvin.kipruto@email.com | LinkedIn
     😄 Pronouns: He/Him
     ⚡ Fun fact: I can debug code faster with coffee, and I believe every problem has an elegant solution!
 
@@ -53,8 +52,6 @@ Hey there! I'm Kelvin Kipruto, a passionate full-stack developer and AI enthusia
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiprutokels&theme=tokyonight&hide_border=true)
 
 🚀 **Let's Connect & Create**
-
-💬 *"The best way to predict the future is to create it."*
 
 I believe in the power of collaboration and the magic that happens when passionate minds come together. Whether you have a groundbreaking idea, need a coding buddy, or just want to chat about the latest AI trends - I'm here for it!
 
