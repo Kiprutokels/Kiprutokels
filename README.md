@@ -45,12 +45,6 @@ Hey there! I'm Kelvin Kipruto, a passionate full-stack developer and AI enthusia
     🐍 Django API Suite - Scalable backend services for mobile applications
     📊 Data Visualization Tools - Making complex data accessible and actionable
 
-🌈 Open Source & Collaboration
-🤝 I'm Always Open To:
-💡 Innovation 	🔬 AI Research 	🌍 Open Source 	☕ Networking
-Crazy new ideas 	ML/DL projects 	Contributing to repos 	Coffee & code talks
-Startup ventures 	Research papers 	Maintaining projects 	Tech meetups
-Hackathons 	AI ethics discussions 	Code reviews 	Mentoring newcomers
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiprutokels&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
