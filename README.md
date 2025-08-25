@@ -1,4 +1,4 @@
-Kelvin Kipruto | AI Innovation & Full-Stack Development
+Kelvin Kipruto | AI Innovation & Full-Stack Developer
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Innovation+%26+Full-Stack+Dev;Building+Tomorrow's+Solutions;Open+Source+Enthusiast)
 
@@ -41,7 +41,6 @@ Hey there! I'm Kelvin Kipruto, a passionate full-stack developer and AI enthusia
 
     🤖 AI-Powered SaaS Platform - Democratizing AI for small businesses
     🌐 Next.js Dashboard - Real-time analytics with beautiful UX
-    🐍 Django API Suite - Scalable backend services for mobile applications
     📊 Data Visualization Tools - Making complex data accessible and actionable
 
 
