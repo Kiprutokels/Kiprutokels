@@ -1,7 +1,5 @@
 Kelvin Kipruto | AI Innovation & Full-Stack Developer
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Innovation+%26+Full-Stack+Dev;Building+Tomorrow's+Solutions;Open+Source+Enthusiast)
-
 🌟 About Me
 
     "Innovation distinguishes between a leader and a follower." - Steve Jobs
