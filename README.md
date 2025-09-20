@@ -62,4 +62,4 @@ I believe in the power of collaboration and the magic that happens when passiona
 
 **Let's build something amazing together!** 🚀
 
-⭐ **From Kelvin Kipruto** - *Making AI accessible, one commit at a time*
+⭐ **Kelvin Kipruto** - *Making AI accessible, one commit at a time*
