@@ -4,7 +4,7 @@ Kelvin Kipruto | AI Innovation & Full-Stack Developer
 
     "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
-Hey there! I'm Kelvin Kipruto, a passionate full-stack developer and AI enthusiast who believes in the power of technology to transform lives. I'm on a mission to bridge the gap between cutting-edge AI and practical applications that make a difference.
+Hey there! I'm Kelvin, a passionate full-stack developer and AI enthusiast who believes in the power of technology to transform lives. I'm on a mission to bridge the gap between cutting-edge AI and practical applications that make a difference.
 
 🚀 What I'm Up To
 
