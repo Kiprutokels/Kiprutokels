@@ -42,11 +42,16 @@ Hey there! I'm Kelvin, a passionate full-stack developer and AI enthusiast who b
     📊 Data Visualization Tools - Making complex data accessible and actionable
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiprutokels&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiprutokels&layout=compact&theme=tokyonight&hide_border=true)
+<!-- GitHub Metrics -->
+![Metrics](https://raw.githubusercontent.com/kiprutokels/kiprutokels/main/github-metrics.svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiprutokels&theme=tokyonight&hide_border=true)
+<!-- Trophies -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=kiprutokels&theme=tokyonight&no-frame=true&row=1&column=6)
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kiprutokels&theme=tokyo-night)
 
 🚀 **Let's Connect & Create**
 
