@@ -47,8 +47,14 @@ Hey there! I'm Kelvin, a passionate full-stack developer and AI enthusiast who b
 <!-- GitHub Metrics -->
 ![Metrics](https://raw.githubusercontent.com/kiprutokels/kiprutokels/main/github-metrics.svg)
 
-<!-- Trophies -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=kiprutokels&theme=tokyonight&no-frame=true&row=1&column=6)
+## 🌟 GitHub Highlights
+
+![GitHub Metrics](https://raw.githubusercontent.com/kiprutokels/kiprutokels/main/github-metrics.svg)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kiprutokels&theme=tokyo-night)
+
+![Followers](https://img.shields.io/github/followers/kiprutokels?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/kiprutokels?style=for-the-badge)
 
 <!-- Activity Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kiprutokels&theme=tokyo-night)
