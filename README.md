@@ -42,11 +42,6 @@ Hey there! I'm Kelvin, a passionate full-stack developer and AI enthusiast who b
     📊 Data Visualization Tools - Making complex data accessible and actionable
 
 
-## 📊 GitHub Analytics
-
-<!-- GitHub Metrics -->
-![Metrics](https://raw.githubusercontent.com/kiprutokels/kiprutokels/main/github-metrics.svg)
-
 ## 🌟 GitHub Highlights
 
 ![GitHub Metrics](https://raw.githubusercontent.com/kiprutokels/kiprutokels/main/github-metrics.svg)
@@ -56,8 +51,6 @@ Hey there! I'm Kelvin, a passionate full-stack developer and AI enthusiast who b
 ![Followers](https://img.shields.io/github/followers/kiprutokels?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/kiprutokels?style=for-the-badge)
 
-<!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kiprutokels&theme=tokyo-night)
 
 🚀 **Let's Connect & Create**
 
