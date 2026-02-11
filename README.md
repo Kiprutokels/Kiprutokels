@@ -12,7 +12,7 @@ Hey there! I'm Kelvin, a passionate full-stack developer and AI enthusiast who b
     🌱 I'm currently learning Advanced Machine Learning, Cloud Architecture, and Web3 technologies
     👯 I'm looking to collaborate on Open source projects, AI research, and startup ventures
     🤔 I'm looking for help with Scaling AI models and optimizing full-stack architectures
-    💬 Ask me about React, Next.js, Django, AI integration, and building scalable applications
+    💬 Ask me about React, Next.js, AI integration, and building scalable applications
     😄 Pronouns: He/Him
     ⚡ Fun fact: I can debug code faster with coffee, and I believe every problem has an elegant solution!
 
@@ -69,3 +69,5 @@ I believe in the power of collaboration and the magic that happens when passiona
 **Let's build something amazing together!** 🚀
 
 ⭐ **Kelvin Kipruto** - *Making AI accessible, one commit at a time*
+
+
