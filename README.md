@@ -61,7 +61,7 @@ I believe in the power of collaboration and the magic that happens when passiona
 📫 **Reach Out:**
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiprutokels@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kiprutokels)
+[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kiprutokels)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-kipruto-k)
 
 🌟 *"Innovation is not about saying yes to everything. It's about saying no to all but the most crucial features."*
